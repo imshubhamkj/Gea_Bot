@@ -147,3 +147,6 @@ The user also gets an option to cancel the existing service appointment.
 3) Providing a chatbot facility for technician as well , where they can easily keep track of the bookings and locations.
 
 4) Adding the booking date to users calendar. 
+
+by
+Paritosh Mahajan
